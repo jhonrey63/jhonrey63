@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jhonrey Pahilanga</h1>
-<h3 align="center">A 17-years-old ICT Student based in Pasig, Philippines.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
+<h1 align="center">Jhonrey Pahilanga | Reikun</h1>
+<h3 align="center">A 18-years-old ICT Student based in Pasig, Philippines.</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/jhonrey63/jhonrey63/blob/main/REIKUN.gif">
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+-  Currently learning **HTML, CSS, JavaScript**
+-  Freelancing as a **Game Designer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
